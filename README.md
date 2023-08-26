@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4 align='center'>About Me</h4>
 <p>
 I began learning how to code when I was just ten years old, not fully understanding its significance. As I progressed through high school, I delved into web development and discovered a strong love for software development.
 </p>
