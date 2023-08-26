@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h4 align='center'>About Me</h4>
+<section align='center'>
 <p>
 I began learning how to code when I was just ten years old, not fully understanding its significance. As I progressed through high school, I delved into web development and discovered a strong love for software development.
 </p>
@@ -24,3 +25,4 @@ After graduating high school, I decided to pursue a degree in computer science a
 <p>
 Although I faced setbacks, I never lost my determination to excel in web development. I saved up diligently to attend the challenging boot camp at Devmountain. I balanced screen time with mindful breaks and absorbed the latest practices and techniques. I am aware that my journey has only just begun and I am eager to gain more knowledge and expertise in my chosen field.
 </p>
+ </section>
