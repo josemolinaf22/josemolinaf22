@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-My journey into programming began when I was around 10 years old, long before I even knew what programming truly meant. It was during my high school years that I had the opportunity to delve deeper into web development basics, an experience that ignited a profound love for the world of software development within me.
+I began learning how to code when I was just ten years old, not fully understanding its significance. As I progressed through high school, I delved into web development and discovered a strong love for software development.
 </p>
 <p> 
-After graduating from high school, I made the decision to pursue a degree in computer science at Weber State University. However, as a first-generation student without the necessary support systems in place, I faced significant challenges that ultimately led to me having to drop out. The need to work two full-time jobs in order to manage rent and tuition expenses left me with no choice but to return to my hometown, unable to continue my studies at the university.
+After graduating high school, I decided to pursue a degree in computer science at Weber State University. However, being a first-generation student without a strong support system, I faced numerous challenges that eventually led me to give up on my education. The need to work two full-time jobs to pay my rent and tuition fees left me with no choice but to return to my hometown, unable to continue my studies at the university.
 </p>
 <p>
-Despite these setbacks, my determination to learn and grow in the field of web development remained unwavering. I dedicated myself to saving up enough money to attend a bootcamp called Devmountain. The completion of this rigorous course was no easy feat, but with mindful breaks away from the computer screen, I was able to absorb the most up-to-date practices and techniques in development.
-I am keenly aware that my learning journey is only just beginning, and I am filled with anticipation as I eagerly pursue further knowledge and expertise in my chosen field.
-
+Although I faced setbacks, I never lost my determination to excel in web development. I saved up diligently to attend the challenging boot camp at Devmountain. I balanced screen time with mindful breaks and absorbed the latest practices and techniques. I am aware that my journey has only just begun and I am eager to gain more knowledge and expertise in my chosen field.
 </p>
